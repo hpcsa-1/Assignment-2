@@ -1,2 +1,2 @@
 a = input("Enter your name :")
-print("Namaste...",a,"!!!")
+print("Git is fun enough...",a,"!!!")
